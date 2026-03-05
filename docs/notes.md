@@ -15,3 +15,4 @@ Notes and usage details for csharp-runner.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
